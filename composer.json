@@ -1,5 +1,5 @@
 {
-    "name" : "KLicheR/wp-polylang-translate-rewrite-slugs",
+    "name" : "dennisenderink/wp-polylang-translate-rewrite-slugs",
     "description" : "WordPress plugin to help translate post types rewrite slugs with the Polylang plugin.",
     "keywords" : ["wordpress", "plugin", "polylang", "translate", "post", "type"],
     "homepage" : "https://github.com/KLicheR/wp-polylang-translate-rewrite-slugs",
