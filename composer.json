@@ -1,0 +1,24 @@
+{
+    "name" : "KLicheR/wp-polylang-translate-rewrite-slugs",
+    "description" : "WordPress plugin to help translate post types rewrite slugs with the Polylang plugin.",
+    "keywords" : ["wordpress", "plugin", "polylang", "translate", "post", "type"],
+    "homepage" : "https://github.com/KLicheR/wp-polylang-translate-rewrite-slugs",
+    "license" : "GPLv2 or later",
+    "authors" : [
+        {
+            "name" : "Kristoffer Laurin-Racicot",
+            "email" : "kristoffer.lr@gmail.com",
+            "homepage" : "https://github.com/KLicheR"
+        },
+        {
+            "name" : "Dennis Enderink",
+            "email" : "dennis@stayhungry.nl",
+            "homepage" : "http://dennisenderink.nl"
+        }
+    ],
+    "type" : "wordpress-plugin",
+    "require" : {
+        "php": ">=5.3.3",
+        "composer/installers" : "v1.0.*"
+    }
+}
